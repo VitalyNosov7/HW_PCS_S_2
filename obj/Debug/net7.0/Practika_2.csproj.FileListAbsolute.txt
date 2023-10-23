@@ -1,0 +1,14 @@
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\bin\Debug\net7.0\Practika_2.exe
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\bin\Debug\net7.0\Practika_2.deps.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\bin\Debug\net7.0\Practika_2.runtimeconfig.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\bin\Debug\net7.0\Practika_2.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\bin\Debug\net7.0\Practika_2.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.AssemblyInfoInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.AssemblyInfo.cs
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.csproj.CoreCompileInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\refint\Practika_2.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\Practika_2.genruntimeconfig.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2\Practika_2\obj\Debug\net7.0\ref\Practika_2.dll
